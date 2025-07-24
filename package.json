@@ -9,8 +9,8 @@
   ],
   "homepage": "https://github.com/obet24077/UbedBail",
   "repository": {
-    "url": "git+ssh://git@github.com/obet24077/UbedBail/bail.git"
-  },
+  "url": "https://github.com/obet24077/UbedBail.git"
+},
   "license": "MIT",
   "author": "Ubed",
   "main": "lib/index.js",
